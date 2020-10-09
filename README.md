@@ -1,2 +1,3 @@
 # Mediana
 mediana
+swapy
